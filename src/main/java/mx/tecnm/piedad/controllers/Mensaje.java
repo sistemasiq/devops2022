@@ -20,6 +20,8 @@ import io.jsonwebtoken.SignatureAlgorithm;
 
 import mx.tecnm.piedad.dao.UsuariosJDBC;
 
+// comentario para ejemplificar cambios en Git
+
 @RestController 
 @RequestMapping("/api/mensajes")
 public class Mensaje {
