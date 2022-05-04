@@ -31,7 +31,7 @@ public class Mensaje {
 	
 	@GetMapping("/hola")
 	public String saludar() {
-		return "¡Hola WS!";
+		return "¡Hola Devops!";
 	}
 	
 	@GetMapping("/eco")
